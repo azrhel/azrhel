@@ -5,7 +5,6 @@
 - 🪽 Mastering full stack web development
 - 📫 How to reach me **meet.dharshan3@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 
 # 🌐 Socials:
 
