@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arzhel</h1>
+<h1 align="center">Hi 👋, I'm Azrhel</h1>
 <h3 align="center">A 15 year old computer addict</h3>
 
 - 🔭 I’m currently working on **Strack**
