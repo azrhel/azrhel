@@ -17,10 +17,13 @@
 
 # 📊 My Holy Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=arzhel0-0&theme=ambient_gradient&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arzhel0-0&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=azrhel&theme=aura&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=azrhel&theme=aura&hide_border=true)<br/>
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arzhel0-0&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=azrhel&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
