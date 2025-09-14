@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Azrhel</h1>
 <h3 align="center">A 15 year old computer addict</h3>
 
-- 🔭 I’m currently working on **Strack**
+- 🔭 I’m currently working on **Strack and a few more**
 - 🪽 Mastering full stack web development
+- 📝 Also a video editor and graphic designer
 - 📫 How to reach me **meet.dharshan3@gmail.com**
 
 
