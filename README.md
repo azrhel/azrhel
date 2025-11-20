@@ -3,8 +3,7 @@
 
 - 🔭 I’m currently working on **Strack and a few more**
 - 🪽 Mastering full stack web development
-- 📝 Also a video editor and graphic designer
-- 📫 How to reach me **meet.dharshan3@gmail.com**
+- 📝 Also a video editor and GFX arts\ist
 
 
 # 🌐 Socials:
