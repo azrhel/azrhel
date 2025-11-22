@@ -18,6 +18,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=azrhel&icon=0&color=0)](https://visitcount.itsvg.in)
 
-https://antonkomarev/github-profile-views-counter
-
 
